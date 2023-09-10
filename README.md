@@ -1,0 +1,2 @@
+# web
+mining prayektim
