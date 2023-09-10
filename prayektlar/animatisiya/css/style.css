@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container-app {
+	width: 100vw;
+	height: 100vh;
+	background-image: linear-gradient(to top  ,orange,purple);
+}
+
+.instagram {
+	width: 100px;
+	height: 100px;
+	top: 290px;
+	left: 630px;
+	background-size: cover;
+	position: relative;
+	background-image: url(https://cdn-icons-png.flaticon.com/512/174/174855.png);
+	
+}
+.instagram > .profile {
+	width: 440px;
+	height: 600px;
+	background-color: white;
+/*    border: 5px solid red;*/
+    border-radius: 10px;
+	position: relative;
+	bottom: 255px;
+	right: 160px;
+}
+.jpng {
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	border: 5px solid red;
+
+}
+
